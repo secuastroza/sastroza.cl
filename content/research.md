@@ -14,9 +14,9 @@ You can see the details of my research on my [Google Scholar](https://scholar.go
 
 ## Publications (Web of Science)
 
--	Jara-Díaz, S.R., Morales, M., and Astroza, S. (2023) Transcending the gender distribution of work: committed time, activity substitution, and leisure. Transportation. *Forthcoming*. 
--	Astroza, S., Guarda, P., and Carrasco J.A. (2022) Modeling the relationship between food purchasing, transport, and health outcomes: Evidence from Concepcion, Chile. Journal of Choice Modelling, 42, 100341 https://doi.org/10.1016/j.jocm.2021.100341
--	Espejo, F, Astroza, S. and Hurtubia, R.  (2022) On the relation between school and residential location choice: Evidence of heterogeneous strategis from Santiago de Chile. Journal of Transport Geography, 102, 103359. https://doi.org/10.1016/j.jtrangeo.2022.103359
+-	Jara-Díaz, S.R., Morales, M., and Astroza, S. (2023) **Transcending the gender distribution of work: committed time, activity substitution, and leisure.** *Transportation*. *Forthcoming*. 
+-	Astroza, S., Guarda, P., and Carrasco J.A. (2022) **Modeling the relationship between food purchasing, transport, and health outcomes: Evidence from Concepcion, Chile**. *Journal of Choice Modelling*, 42, 100341 https://doi.org/10.1016/j.jocm.2021.100341
+-	Espejo, F, Astroza, S. and Hurtubia, R.  (2022) **On the relation between school and residential location choice: Evidence of heterogeneous strategis from Santiago de Chile**. *Journal of Transport Geography*, 102, 103359. https://doi.org/10.1016/j.jtrangeo.2022.103359
 -	Salas, P, De la Fuente, R., Astroza, S., and Carrasco J.A. (2022) A systematic comparative evaluation of machine learning classifiers and discrete choice models for travel mode choice in the presence of response heterogeneity. Expert Systems with Applications, 193, 116253. https://www.sciencedirect.com/science/article/abs/pii/S0957417421015633
 -	Astroza, S., Garikapayi, V., Pendyala, R.M., Bhat, C.R. and Mokhtarian, P. (2019) Representing heterogeneity in structural relationships among multiple choice variables using a latent segmentation approach. Transportation, 46, 1755–1784, https://link.springer.com/article/10.1007/s11116-018-9882-7
 -	Leung, K.Y.K., S. Astroza, B.P.Y. Loo, and C.R. Bhat. (2019) An environment-people interactions framework for analysing children's extra-curricular activities and active transport. Journal of Transport Geography, 74, 341-358. https://www.sciencedirect.com/science/article/pii/S0966692318304587?via%3Dihub
