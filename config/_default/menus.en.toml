@@ -12,7 +12,7 @@
 
 [[main]]
 name = "About me"
-pageRef = "about.md"
+pageRef = "about"
 weight = 10
 
 [[main]]
