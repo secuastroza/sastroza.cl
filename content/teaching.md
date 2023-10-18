@@ -13,14 +13,14 @@ sharingLinks: false
 
 ## Current students
 
-- Patricio Salas (PhD in industrial engineering - Dr. Juan Antonio Carrasco is co-advisor). 
-- Juan Carlos Manriquez (PhD in industrial engineering - Dr. Marcela Parada is co-advisor). 
-- Pablo Reyes-Polanco (MSc in industrial engineering - Dr. Juan Antonio Carrasco is co-advisor). 
-- Lorenzo Muñoz-Torrejón (MSc in civil engineering  - Dr. Alejandro Tudela is co-advisor)
-- Diego Medina (MSc in civil engineering - Dr. Juan Antonio Carrasco is co-advisor)
-- Jean Paul Lajehanniere (industrial engineering undergrad)
-- Pamela Inzunza (industrial engineering undergrad)
-- Mabel González (industrial engineering undergrad)
+- **Patricio Salas** (PhD in industrial engineering - Dr. Juan Antonio Carrasco is co-advisor). 
+- **Juan Carlos Manriquez** (PhD in industrial engineering - Dr. Marcela Parada is co-advisor). 
+- **Pablo Reyes-Polanco** (MSc in industrial engineering - Dr. Juan Antonio Carrasco is co-advisor). 
+- **Lorenzo Muñoz-Torrejón** (MSc in civil engineering  - Dr. Alejandro Tudela is co-advisor)
+- **Diego Medina** (MSc in civil engineering - Dr. Juan Antonio Carrasco is co-advisor)
+- **Jean Paul Lajehanniere** (industrial engineering undergrad)
+- **Pamela Inzunza** (industrial engineering undergrad)
+- **Mabel González** (industrial engineering undergrad)
 - [Your name can be here.](mailto:sastroza@udec.cl)
 
 
