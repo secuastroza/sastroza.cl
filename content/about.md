@@ -23,6 +23,6 @@ Three weeks after I defended my Ph.D. dissertation (February 2018), I was hired 
 I am happy in Concepción, which is, in my opinion, a great city to live in. I met my partner while we were undergraduate engineering students at Universidad de Chile. She is also a jewelry artist (you should visit her [instagram profile](https://www.instagram.com/tonicajoyas/) and [website](https://www.tonicajoyas.com/)). I have a [twin brother](https://aastroza.github.io/), which explains my eternal and continuous struggle to differentiate and perfect myself.
 
 
-![My office](/img/oficina_big.JPG)
+![My office](img/oficina_big.JPG)
 
 Illustrated by [Sebastián Franchini](https://www.instagram.com/sebazebes/).
