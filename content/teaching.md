@@ -30,57 +30,57 @@ sharingLinks: false
 
 #### 2023
 
-- Rubén Miranda Dellarossa (Dr. Juan Antonio Carrasco was co-advisor). Relación Entre Patrones De Alimentación Y Movilidad En El Gran Concepción 
-- Cristián Ulloa Cerda. Determinación De Factores Que Inciden En Mortalidad Intrahospitalaria En Chile Usando Métodos Econométricos.
+- **Rubén Miranda Dellarossa** (Dr. Juan Antonio Carrasco was co-advisor). Relación Entre Patrones De Alimentación Y Movilidad En El Gran Concepción 
+- **Cristián Ulloa Cerda**. Determinación De Factores Que Inciden En Mortalidad Intrahospitalaria En Chile Usando Métodos Econométricos.
 
 ### Undergrad
 
 #### 2023
 
-- Rodrigo Saavedra Bafalluy. Análisis del uso de tiempo y gasto en la movilidad de personas en el Gran Concepción.
+- **Rodrigo Saavedra Bafalluy**. Análisis del uso de tiempo y gasto en la movilidad de personas en el Gran Concepción.
 
-- Esteban Osmar Valenzuela Moreno. Dataset merging and twin generation of Concepcion's time-use data through machine learning.
+- **Esteban Osmar Valenzuela Moreno**. Dataset merging and twin generation of Concepcion's time-use data through machine learning.
 
-- Pedro Pablo Vergara Bonilla. Estimación de un modelo econométrico de uso de tiempo en actividades diarias dentro y fuera del hogar de las personas de la región del Biobío, Chile.
+- **Pedro Pablo Vergara Bonilla**. Estimación de un modelo econométrico de uso de tiempo en actividades diarias dentro y fuera del hogar de las personas de la región del Biobío, Chile.
 
-- Samuel Ignacio Soto Contreras. Propuesta de una tarifa óptima para el transporte público y análisis de las asignaciones de subsidios para transporte para el caso del Gran Concepción.
+- **Samuel Ignacio Soto Contreras**. Propuesta de una tarifa óptima para el transporte público y análisis de las asignaciones de subsidios para transporte para el caso del Gran Concepción.
 
-- Brandol Rojas Nuñez. Diseño y piloto de una nueva encuesta de uso de tiempo enfocada en trabajo remunerado, no remunerado y tiempo mínimo de realización de actividades.
+- **Brandol Rojas Nuñez**. Diseño y piloto de una nueva encuesta de uso de tiempo enfocada en trabajo remunerado, no remunerado y tiempo mínimo de realización de actividades.
 
-- Pablo Ignacio Reyes Polanco. Análisis de la Encuesta Nacional de Uso de Tiempo en Chile: una mirada a factores que afectan la asignación de tiempo de las personas.
+- **Pablo Ignacio Reyes Polanco**. Análisis de la Encuesta Nacional de Uso de Tiempo en Chile: una mirada a factores que afectan la asignación de tiempo de las personas.
 
-- Felipe Herrera Rivas :medal_military: (Dr. José Oliveros, Dr. Manuel Rengifo, and Dr. Carlos Contreras were co-advisors) Estudio de la aversión a la pérdida y su influencia en la toma de decisiones poco éticas en ambientes competitivos.  *(This guy deserves a medal because he had to deal with four advisors)*
+- **Felipe Herrera Rivas** :medal_military: (Dr. José Oliveros, Dr. Manuel Rengifo, and Dr. Carlos Contreras were co-advisors) Estudio de la aversión a la pérdida y su influencia en la toma de decisiones poco éticas en ambientes competitivos.  *(This guy deserves a medal because he had to deal with four advisors)*
 
 #### 2022
 
-- Estefanía Alejandra Gajardo Rozas. Análisis del uso del tiempo y movilidad con especial énfasis en la alimentación: caso de estudio en Concepción, Chile.
+- **Estefanía Alejandra Gajardo Rozas**. Análisis del uso del tiempo y movilidad con especial énfasis en la alimentación: caso de estudio en Concepción, Chile.
 
-- Claudia Andrea Hurtado González. Análisis comparativo de las licitaciones de transporte público desde los años 90.
+- **Claudia Andrea Hurtado González**. Análisis comparativo de las licitaciones de transporte público desde los años 90.
 
-- Paloma Antonia Romero Parra.  Análisis de acceso a educación en el Gran Concepción con foco en los establecimientos educacionales.
+- **Paloma Antonia Romero Parra**.  Análisis de acceso a educación en el Gran Concepción con foco en los establecimientos educacionales.
 
-- Lucía Paz Bravo Salgado.  Estimación de un modelo múltiple discreto continuo para describir el uso de tiempo de las personas del Gran Concepción.
+- **Lucía Paz Bravo Salgado**.  Estimación de un modelo múltiple discreto continuo para describir el uso de tiempo de las personas del Gran Concepción.
 
-- Josefa Ivanna Vidal Troncoso. Protoripo de recolección de datos para modelo de uso de tiempo.
+- **Josefa Ivanna Vidal Troncoso**. Protoripo de recolección de datos para modelo de uso de tiempo.
 
-- Tomás Benjamín Vallejo Parada. Metodología para la corrección de datos de uso de tiempo en la Encuesta Nacional de Uso de Tiempo.
+- **Tomás Benjamín Vallejo Parada**. Metodología para la corrección de datos de uso de tiempo en la Encuesta Nacional de Uso de Tiempo.
 
-- Pablo Esteban Matamala Cortés. Metodología para estimar el valor del uso del tiempo en diferentes ciudades del país en base a la encuesta origen – destino.
+- **Pablo Esteban Matamala Cortés**. Metodología para estimar el valor del uso del tiempo en diferentes ciudades del país en base a la encuesta origen – destino.
 
 #### 2021
 
-- Vicente Quiroz de Camino. Análisis comparativo de estimaciones de modelos econométricos empleando la encuesta nacional de uso del tiempo y la encuesta origen-destino para el gran Concepción.
-- Daniela Mendoza Sepúlveda. Exclusión social en barrios de San Pedro de la Paz durante la pandemia del coronavirus.
-- Tomas Retamal Venegas. Análisis territorial del movimiento de las personas en el contexto de la pandemia de covid-19 en el gran Concepción.
-- Juan Leonhardt Chávez. Factores que influyen en la satisfacción del usuario y el uso de una aplicación de movilidad luego del contacto con el servicio al cliente.
-- Javiera Anabalon Medina. Modelo de segmentación del uso de tiempo de los habitantes de la región del Bío- Bío.
-- Lilian Briceño Fuentealba. Comportamiento de actividades de viajes y movilidad del cuidado bajo un enfoque de género: caso de estudio en Concepción, Chile.
-- Barbara Zarate Sanhueza. Análisis de la movilidad y el cuidado con especial énfasis en alimentación y perspectiva de género, en cuatro comunas del gran Concepción.
-- Danilo Montesino Iturra.  Análisis de la severidad de los siniestros de tránsito ocurridos en el gran Concepción, utilizando un modelo de elección discreta.
+- **Vicente Quiroz de Camino**. Análisis comparativo de estimaciones de modelos econométricos empleando la encuesta nacional de uso del tiempo y la encuesta origen-destino para el gran Concepción.
+- **Daniela Mendoza Sepúlveda**. Exclusión social en barrios de San Pedro de la Paz durante la pandemia del coronavirus.
+- **Tomas Retamal Venegas**. Análisis territorial del movimiento de las personas en el contexto de la pandemia de covid-19 en el gran Concepción.
+- **Juan Leonhardt Chávez**. Factores que influyen en la satisfacción del usuario y el uso de una aplicación de movilidad luego del contacto con el servicio al cliente.
+- **Javiera Anabalon Medina**. Modelo de segmentación del uso de tiempo de los habitantes de la región del Bío- Bío.
+- **Lilian Briceño Fuentealba**. Comportamiento de actividades de viajes y movilidad del cuidado bajo un enfoque de género: caso de estudio en Concepción, Chile.
+- **Barbara Zarate Sanhueza**. Análisis de la movilidad y el cuidado con especial énfasis en alimentación y perspectiva de género, en cuatro comunas del gran Concepción.
+- **Danilo Montesino Iturra**.  Análisis de la severidad de los siniestros de tránsito ocurridos en el gran Concepción, utilizando un modelo de elección discreta.
 
 #### 2020
 
-- Valentina Torres  Catril. Estudio del comportamiento de las personas durante la pandemia covid-19 en el contexto de movilidad, considerando frecuencia, propósito y modo de viaje.
+- **Valentina Torres  Catril**. Estudio del comportamiento de las personas durante la pandemia covid-19 en el contexto de movilidad, considerando frecuencia, propósito y modo de viaje.
 - Macarena  Figueroa Romero.  Estudio de la disposición a hacer cuarentena y su impacto en la propagación del virus covid-19 en Chile.
 - Natalia Parra Riveros. Estudio de la asignación de tiempo a actividades de las personas mediante un modelo de elección discreto continuo múltiple con correlación espacial.
 - Cristóbal Avilés  Uribe.  Predicción de cantidad de uso de suelo comercial en zonas de Santiago utilizando algoritmos de aprendizaje automático.
