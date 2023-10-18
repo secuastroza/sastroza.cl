@@ -49,7 +49,7 @@ Some movies are deep. Not everything is fleeting.
 
 From 1958 onwards, all films are nothing more than remakes of Vertigo.
 
-## Vagabond (Anges Varda, 1985)
+## Vagabond (Agnes Varda, 1985)
 ![Vagabond](/img/varda.PNG)
 
 Perfectly devastating.
@@ -81,14 +81,15 @@ Borges, Cortázar, and Bolaño walk into a bar and start writing a musical.
 <!--
 ## Au Hasard Balthazar (Robert Bresson, 1966)
 ![Au Hasard Balthazar](/img/bresson.JPG)
+-->
 
 ## The Age of Innocence (Martin Scorsese, 1993)
 ![The Age of Innocence](/img/scorsese.PNG)
-
+My favorite from the master.
 
 ## Cold War (Pawel Pawlikowski, 2018)
 ![Cold War](/img/pawli.PNG)
--->
+Perfection.
 
 ## Phoenix (Christian Petzold, 2014)
 ![Phoenix](/img/petzold.JPEG)
