@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://ubiquitous-piroshki-7659b1.netlify.app/"
+baseURL = "/"
 defaultContentLanguage = "en"
 languageCode = "en"
 
