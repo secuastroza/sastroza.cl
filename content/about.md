@@ -20,7 +20,7 @@ I then completed my Ph.D. at [the University of Texas at Austin](https://www.cae
 
 Three weeks after I defended my Ph.D. dissertation (February 2018), I was hired as an Assistant Professor at the [Industrial Engineering Department](https://dii.udec.cl/) at [Universidad de Concepción](https://fi.udec.cl/). Since then, I have taught econometrics, simulation, and modeling courses in the undergrad, master, and Ph.D. programs. I also got experience in university management since I served as the Undergrad Program Officer for two years. At the end of 2022, I was promoted to Associate Professor.
 
-I am happy in Concepción, which is, in my opinion, a great city to live in. I met my partner while we were undergraduate engineering students at Universidad de Chile. She is also a jewelry artist (you should visit her [instagram profile](https://www.instagram.com/tonicajoyas/) and [website](https://www.tonicajoyas.com/)). I have a [twin brother](https://aastroza.github.io/), which explains my eternal and continuous struggle to differentiate and perfect myself.
+I am happy in Concepción, which is a great city to live in. I met my partner while we were undergraduate engineering students at Universidad de Chile. She is also a jewelry artist (you should visit her [instagram profile](https://www.instagram.com/tonicajoyas/) and [website](https://www.tonicajoyas.com/)). I have a [twin brother](https://aastroza.github.io/), which explains my eternal and continuous struggle to differentiate and perfect myself.
 
 
 ![My office](/img/oficina_big.JPG)
