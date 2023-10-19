@@ -8,7 +8,7 @@ layout: "simple"
 sharingLinks: false
 ---
 
-One of my hobbies is collecting movies (physical media). I have hundreds of DVDs and Blurays. Since I'm obsessive, I have this [excel spreadsheet](https://docs.google.com/spreadsheets/d/1KxzIZF85vcm4fmN1Ep0TReR46NigUAEj/edit?usp=sharing&ouid=115543448429602200561&rtpof=true&sd=true) where I keep track of what I have (and who I lend them to if that strange event occurs in which I consider you worthy of borrowing one of my movies). I like to talk about cinema; I always use something related in class as an example. Here, you can find a list of movies that I highly recommend.
+One of my hobbies is collecting movies. I have hundreds of DVDs and Blurays. Since I'm obsessive, I have this [excel spreadsheet](https://docs.google.com/spreadsheets/d/1KxzIZF85vcm4fmN1Ep0TReR46NigUAEj/edit?usp=sharing&ouid=115543448429602200561&rtpof=true&sd=true) where I keep track of what I have (and who I lend them to if that strange event occurs in which I consider you worthy of borrowing one of my movies). I like to talk about cinema; I always use something related in class as an example. Here, you can find a list of movies that I highly recommend.
 
 ## Paris, Texas (Win Wenders, 1984)
 ![Paris Texas](/img/wenders2.JPG)
