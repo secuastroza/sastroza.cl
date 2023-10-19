@@ -81,26 +81,26 @@ sharingLinks: false
 #### 2020
 
 - **Valentina Torres  Catril**. Estudio del comportamiento de las personas durante la pandemia covid-19 en el contexto de movilidad, considerando frecuencia, propósito y modo de viaje.
-- Macarena  Figueroa Romero.  Estudio de la disposición a hacer cuarentena y su impacto en la propagación del virus covid-19 en Chile.
-- Natalia Parra Riveros. Estudio de la asignación de tiempo a actividades de las personas mediante un modelo de elección discreto continuo múltiple con correlación espacial.
-- Cristóbal Avilés  Uribe.  Predicción de cantidad de uso de suelo comercial en zonas de Santiago utilizando algoritmos de aprendizaje automático.
-- Daniela Robles Hernández. Estudio y modelo econométrico del acceso a educación posterior a reforma educacional 2016 en el gran Santiago.
-- Verónica Soto Jarpa. Modelo econométrico para la segmentación de clientes de una empresa con múltiples productos de inversión, seguros y bancarios.
-- Javiera Soto Ortiz. Análisis del efecto de la práctica de la actividad física sobre el bienestar de los trabajadores y estudiantes durante la pandemia.
-- Lissette Valladares Castillo. Estudio de uso del tiempo asociado a actividades de trabajo remunerado, trabajo doméstico y entretenimiento en un día laboral durante la pandemia covid-19 en Chile.
-- María Consuelo Smith Piel. Estudio sobre el cuidado del hogar y trabajo durante la pandemia covid-19 en Chile.
-- Camila García Sanhueza. Modelo de uso de tiempo empleando datos de la encuesta origen – destino y de la encuesta nacional de uso de tiempo para el gran concepción.
+- **Macarena  Figueroa Romero**.  Estudio de la disposición a hacer cuarentena y su impacto en la propagación del virus covid-19 en Chile.
+- **Natalia Parra Riveros**. Estudio de la asignación de tiempo a actividades de las personas mediante un modelo de elección discreto continuo múltiple con correlación espacial.
+- **Cristóbal Avilés  Uribe**.  Predicción de cantidad de uso de suelo comercial en zonas de Santiago utilizando algoritmos de aprendizaje automático.
+- **Daniela Robles Hernández**. Estudio y modelo econométrico del acceso a educación posterior a reforma educacional 2016 en el gran Santiago.
+- **Verónica Soto Jarpa**. Modelo econométrico para la segmentación de clientes de una empresa con múltiples productos de inversión, seguros y bancarios.
+- **Javiera Soto Ortiz**. Análisis del efecto de la práctica de la actividad física sobre el bienestar de los trabajadores y estudiantes durante la pandemia.
+- **Lissette Valladares Castillo**. Estudio de uso del tiempo asociado a actividades de trabajo remunerado, trabajo doméstico y entretenimiento en un día laboral durante la pandemia covid-19 en Chile.
+- **María Consuelo Smith Piel**. Estudio sobre el cuidado del hogar y trabajo durante la pandemia covid-19 en Chile.
+- **Camila García Sanhueza**. Modelo de uso de tiempo empleando datos de la encuesta origen – destino y de la encuesta nacional de uso de tiempo para el gran concepción.
 
 #### 2019
 
-- Eduardo Fernández Burgos. Análisis de accesibilidad y movilidad en el Gran Concepción.
-- Matías Toledo Sanhueza. Análisis de factores que influyen en la elección de alternativas de transporte sustentable para los habitantes del gran Concepción.
-- Valeria  Alarcón Medina. Estimación desagregada de la demanda de agua potable para Essbio-NuevoSur.
-- Cristóbal Vielma  Oyarzún. Formulación y aplicación de un modelo de uso de tiempo con interacciones sociales.
-- Adrián Flores Fernández. Análisis acceso a educación de calidad en Región Metropolitana con foco en los Establecimientos Educacionales.
+- **Eduardo Fernández Burgos**. Análisis de accesibilidad y movilidad en el Gran Concepción.
+- **Matías Toledo Sanhueza**. Análisis de factores que influyen en la elección de alternativas de transporte sustentable para los habitantes del gran Concepción.
+- **Valeria  Alarcón Medina**. Estimación desagregada de la demanda de agua potable para Essbio-NuevoSur.
+- **Cristóbal Vielma  Oyarzún**. Formulación y aplicación de un modelo de uso de tiempo con interacciones sociales.
+- **Adrián Flores Fernández**. Análisis acceso a educación de calidad en Región Metropolitana con foco en los Establecimientos Educacionales.
 
 #### 2018
 
-- Giovanni Franchesco Fernández Susñar. Predicción de ausentismo laboral y atrasos en la hora de entrada usando modelos de elección discreta.
-- Vasco Orlando León  Ebner. Utilizando modelos de elección discreta para analizar y predecir la frecuencia y motivo de uso de la bicicleta en la Universidad de Concepción.
-- Wladimir Edgardo Arcos Jara. Caracterización de actividades para modelos de transporte urbano.
+- **Giovanni Franchesco Fernández Susñar**. Predicción de ausentismo laboral y atrasos en la hora de entrada usando modelos de elección discreta.
+- **Vasco Orlando León  Ebner**. Utilizando modelos de elección discreta para analizar y predecir la frecuencia y motivo de uso de la bicicleta en la Universidad de Concepción.
+- **Wladimir Edgardo Arcos Jara**. Caracterización de actividades para modelos de transporte urbano.
