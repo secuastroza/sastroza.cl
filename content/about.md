@@ -8,7 +8,7 @@ layout: "simple"
 sharingLinks: false
 ---
 
-I’m an Associate Professor at the **[Industrial Engineering Department](https://dii.udec.cl/)** at **[Universidad de Concepción](https://fi.udec.cl/)** in Concepción, Chile. My **[research line](/research)** is Choice Modeling applied to transportation demand, travel behavior, time-use and activities, and sustainable mobility. I **[teach](\teaching)** Discrete Choice Models, Systems Modeling, Simulation, Stochastic Processes, and Advanced Econometrics at the Civil Industrial Engineering undergrad, master, and PhD programs. During my free time I like to watch and collect **[movies](/cinema)**. 
+I’m an Associate Professor at the **[Industrial Engineering Department](https://dii.udec.cl/)** at **[Universidad de Concepción](https://fi.udec.cl/)** in Concepción, Chile. My **[research line](/research)** is Choice Modeling applied to transportation demand, travel behavior, time-use and activities, and sustainable mobility. I **[teach](/teaching)** Discrete Choice Models, Systems Modeling, Simulation, Stochastic Processes, and Advanced Econometrics at the Civil Industrial Engineering undergrad, master, and PhD programs. During my free time I like to watch and collect **[movies](/cinema)**. 
 
 Please feel free to contact me. You can send an [email](mailto:sastroza@udec.cl), message me at [X](https://twitter.com/SecuAstroza) (formerly known as **twitter**), or visit my office at the 4th floor of the [School of Engineering at Universidad de Concepción](https://maps.app.goo.gl/qCgV5ntAi2SJCtR16).
 
