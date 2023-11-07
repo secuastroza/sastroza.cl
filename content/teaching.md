@@ -1,6 +1,6 @@
 ---
 title: "Teaching"
-date: 2023-10-14
+date: 2023-11-06
 draft: false
 summary: "Here you can learn about my teaching"
 tags: ["teaching"]
@@ -13,7 +13,6 @@ sharingLinks: false
 
 ## Current students
 
-- **Patricio Salas** (PhD in industrial engineering - Dr. Juan Antonio Carrasco is co-advisor). 
 - **Juan Carlos Manriquez** (PhD in industrial engineering - Dr. Marcela Parada is co-advisor). 
 - **Pablo Reyes-Polanco** (MSc in industrial engineering - Dr. Juan Antonio Carrasco is co-advisor). 
 - **Lorenzo Muñoz-Torrejón** (MSc in civil engineering  - Dr. Alejandro Tudela is co-advisor)
@@ -25,6 +24,12 @@ sharingLinks: false
 
 
 ## Past students
+
+### Doctorate
+
+#### 2023
+
+- **Patricio Salas** (PhD in industrial engineering - Dr. Juan Antonio Carrasco is co-advisor). Integración de modelos de elección discreta y métodos de machine learning para predecir y comprender la elección del modo de viaje.
 
 ### Master of Science
 
