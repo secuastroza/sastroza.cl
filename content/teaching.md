@@ -29,7 +29,7 @@ sharingLinks: false
 
 #### 2023
 
-- **Patricio Salas** (PhD in industrial engineering - Dr. Juan Antonio Carrasco is co-advisor). Integración de modelos de elección discreta y métodos de machine learning para predecir y comprender la elección del modo de viaje.
+- **Patricio Salas** (PhD in industrial engineering - Dr. Juan Antonio Carrasco was co-advisor). Integración de modelos de elección discreta y métodos de machine learning para predecir y comprender la elección del modo de viaje.
 
 ### Master of Science
 
