@@ -15,8 +15,6 @@ sharingLinks: false
 
 - **Juan Carlos Manriquez** (PhD in industrial engineering - Dr. Marcela Parada is co-advisor). 
 - **Pablo Reyes-Polanco** (MSc in industrial engineering - Dr. Juan Antonio Carrasco is co-advisor). 
-- **Lorenzo Muñoz-Torrejón** (MSc in civil engineering  - Dr. Alejandro Tudela is co-advisor)
-- **Diego Medina** (MSc in civil engineering - Dr. Juan Antonio Carrasco is co-advisor)
 - **Jean Paul Lajehanniere** (industrial engineering undergrad)
 - **Pamela Inzunza** (industrial engineering undergrad)
 - **Mabel González** (industrial engineering undergrad)
@@ -32,6 +30,12 @@ sharingLinks: false
 - **Patricio Salas** (PhD in industrial engineering - Dr. Juan Antonio Carrasco was co-advisor). Integración de modelos de elección discreta y métodos de machine learning para predecir y comprender la elección del modo de viaje.
 
 ### Master of Science
+
+#### 2024
+
+- **Diego Medina De Cortillas** (Dr. Juan Antonio Carrasco was co-advisor). Analizando la relación entre espacio de red social y espacio de actividad: Evidencia desde 4 bases de datos en Chile. 
+- **Lorenzo Muñoz Torrejón**. (Dr. Alejandro Tudela was co-advisor) Evaluación de endogeneidad producida por omisión de variables psicosociales en modelos de elección discreta.
+
 
 #### 2023
 
