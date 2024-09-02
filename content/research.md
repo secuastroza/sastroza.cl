@@ -1,6 +1,6 @@
 ---
 title: "Research"
-date: 2023-10-14
+date: 2024-09-01
 draft: false
 summary: "Here you can see all the amazing research I have done (and I am doing)"
 tags: ["research"]
@@ -14,7 +14,11 @@ You can see the details of my research on my [Google Scholar](https://scholar.go
 
 ## Publications (Web of Science)
 
--	Jara-Díaz, S.R., Morales, M., and Astroza, S. (2023) **Transcending the gender distribution of work: committed time, activity substitution, and leisure.** *Transportation*. Forthcoming. 
+-	Miranda, R., Carrasco, J.A., and Astroza, S. (2025) **Food purchasing and eating patterns: Assessing the role of people’s mobility, social networks, and attitudes on healthy diets.** *Travel Behaviour and Society*. https://doi.org/10.1016/j.tbs.2024.100889
+-	Astroza, S., Hurtubia, R., Tirachini, A., Guevara, A., Carrasco, J.A., Salas, P., and Munizaga, M. (2024) **Analysing the Determinants of Teleworking During the COVID-19 Pandemic in Chile.** *Transportation Research Record*. Forthcoming.
+-	Cheng, Y.T., Lavieri, P., Santos de Sá, A.L., and Astroza, S. (2024) **Investigating the effects of ICT evolution and the COVID-19 pandemic on the spatio-temporal fragmentation of work activities.** *Transportation Research Part A*. https://doi.org/10.1016/j.tra.2024.104192
+-	Henríquez, S., Carrasco, J.A., and Astroza, S. (2024) **Toward mainstreaming care activities in transportation: a time use and mobility segmentation approach.** *Transportation Letters*. https://doi.org/10.1080/19427867.2024.2393536
+-	Jara-Díaz, S.R., Morales, M., and Astroza, S. (2023) **Transcending the gender distribution of work: committed time, activity substitution, and leisure.** *Transportation*. https://doi.org/10.1007/s11116-023-10438-5
 -	Astroza, S., Guarda, P., and Carrasco J.A. (2022) **Modeling the relationship between food purchasing, transport, and health outcomes: Evidence from Concepcion, Chile**. *Journal of Choice Modelling*, 42, 100341 https://doi.org/10.1016/j.jocm.2021.100341
 -	Espejo, F, Astroza, S. and Hurtubia, R.  (2022) **On the relation between school and residential location choice: Evidence of heterogeneous strategies from Santiago de Chile**. *Journal of Transport Geography*, 102, 103359. https://doi.org/10.1016/j.jtrangeo.2022.103359
 -	Salas, P, De la Fuente, R., Astroza, S., and Carrasco J.A. (2022) **A systematic comparative evaluation of machine learning classifiers and discrete choice models for travel mode choice in the presence of response heterogeneity**. *Expert Systems with Applications*, 193, 116253. https://www.sciencedirect.com/science/article/abs/pii/S0957417421015633
